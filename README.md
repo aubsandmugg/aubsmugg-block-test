@@ -9,4 +9,4 @@ Finish the section block so when added into the WP editor it is initialized with
 ### Helpful Hints:
 Make sure NPM is installed on your machine to run the block scripts.
 
-Leverage the <InnerBlocks> compentent to help with your development. 
+Leverage the "<InnerBlocks>" compentent to help with your development. 
