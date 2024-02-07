@@ -6,4 +6,4 @@ A custom plugin has been started with the goal of creating a section block for a
 Finish the section block so when added into the WP editor it is initialized with a core/heading and core/paragraph block, while restricting the allowed block types to the core heading, paragraph and button blocks.
 
 ### Helpful Hint:
-Leverage the <Inner.Blocks> compentent to help with your development. 
+Leverage the <InnerBlocks> compentent to help with your development. 
