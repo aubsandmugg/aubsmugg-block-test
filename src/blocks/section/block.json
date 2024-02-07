@@ -1,0 +1,23 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "aubsmugg/section",
+	"version": "0.1.0",
+	"title": "Section",
+	"category": "design",
+	"icon": "vault",
+	"description": "Add a section container to any page.",
+	"keywords": [
+		"section",
+		"container",
+		"box"
+	],
+	"supports": {
+		"html": false
+	},
+	"textdomain": "aubsmugg",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"attributes": {}
+}
